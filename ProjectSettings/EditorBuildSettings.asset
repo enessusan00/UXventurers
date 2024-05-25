@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 00d156e7b075342008dc6d0b457e0572
+  - enabled: 1
+    path: Assets/Scenes/UserResearchValley.unity
+    guid: 2c864a8f033ec435c8e367e888f35e58
+  - enabled: 0
+    path: Assets/Scenes/GameScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/PersonaPark.unity
+    guid: 0d55a44c175bd483e89acb6e03c76074
+  - enabled: 1
+    path: Assets/Scenes/SenarioPark.unity
+    guid: b46ff9922fbe343e5a4b2e668d719e9e
+  - enabled: 1
+    path: Assets/Scenes/DesignThinkingMountain.unity
+    guid: f535bd6edfdc2454db57a61ed7953b95
+  - enabled: 1
+    path: Assets/Scenes/ImprovementAndLaunchIsland.unity
+    guid: 7dc0520162c424c98b1bf6ebe295d2a5
+  - enabled: 1
+    path: Assets/Scenes/whatisux.unity
+    guid: 88103a49942834789a6431a664fd4273
+  m_configObjects: {}
